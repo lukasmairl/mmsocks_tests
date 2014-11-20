@@ -4,7 +4,7 @@ var casper = require('casper').create({
     ]
 });
 
-var BASE_URL = "http://socken.staging.wpengine.com";
+var BASE_URL = "XX";
 var CART_URL = BASE_URL+"/cart";
 var CHECKOUT_URL = BASE_URL+"/checkout";
 
